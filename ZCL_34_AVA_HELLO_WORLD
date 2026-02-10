@@ -20,4 +20,5 @@ CLASS zcl_34_ava_hello_world IMPLEMENTATION.
     out->write( 'Hello World' ).
 
   ENDMETHOD.
+
 ENDCLASS.
